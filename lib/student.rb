@@ -1,6 +1,6 @@
 class Student
  
-  def log_in
+  def hello
     @logged_in = true
   end
 end
